@@ -1,0 +1,26 @@
+.contenedor{
+    max-width: 100%;
+    text-align: center;
+    align-items: center;
+    padding-top: 5rem;
+    padding-bottom: 15rem;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+.redes{
+    text-align: center;
+    max-width: 100%;
+    font-size: 3rem;
+}
+.contenedor-redes{
+    display: flex;
+    text-align: center;
+}
+.imagenes{
+    max-width: 23rem;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}

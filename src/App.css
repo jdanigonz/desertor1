@@ -1,38 +1,6 @@
-.App {
-  text-align: center;
-}
+.App{
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  background: rgb(0,0,0);
+  background: linear-gradient(0deg, rgba(0,0,0,0.8148760330578513) 0%, rgba(121,106,9,1) 35%, rgba(175,157,5,1) 52%, rgba(255,233,0,0.768595041322314) 100%),url("./componentes/imagenes/economia.jpeg");
+  height: 100vh;
 }

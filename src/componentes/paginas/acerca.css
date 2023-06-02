@@ -1,0 +1,35 @@
+.quienesSomos{
+    padding: 5rem 10rem 10rem 10rem;
+    font-size: 17px;
+    display: flex;
+    color: black;
+    font-weight: 300;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+h1{
+    max-width: 940px;
+    padding-bottom: 2rem;
+}
+.imagen-testimonio{
+    height: 100%;
+}
+.contenedor-testimonio{
+    width: 1270px;
+    height: 500px;
+    margin: 10px 10px 10px 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 10px 10px 23px 10px rgb(0, 0, 0 /9%);
+}
+.contenedor-texto-testimonio{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0 3rem 0 3rem;
+}
